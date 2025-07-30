@@ -1,6 +1,6 @@
 # 🚀 Saas-Dashboard
 
-Saad-Dashboard is a modern, scalable, and type-safe admin dashboard application built using TypeScript. It’s designed to provide an interactive UI for managing and visualizing data—perfect for internal tools, analytics panels, or administrative tasks.
+Saas-Dashboard is a modern, scalable, and type-safe admin dashboard application built using TypeScript. It’s designed to provide an interactive UI for managing and visualizing data—perfect for internal tools, analytics panels, or administrative tasks.
 
 ---
 
@@ -52,7 +52,7 @@ Follow these steps to run the project locally:
 ## 📁 Project Structure (Example)
 
 ```plaintext
-Saad-Dashboard/
+Saas-Dashboard/
 │
 ├── public/               # Static files
 ├── src/
