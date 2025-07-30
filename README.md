@@ -1,4 +1,4 @@
-# 🚀 Saad-Dashboard
+# 🚀 Saas-Dashboard
 
 Saad-Dashboard is a modern, scalable, and type-safe admin dashboard application built using TypeScript. It’s designed to provide an interactive UI for managing and visualizing data—perfect for internal tools, analytics panels, or administrative tasks.
 
